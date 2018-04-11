@@ -1,0 +1,75 @@
+cs111 assignemnt 1 
+
+//sudo code
+
+//Ask user to enter color for band 1
+//option are black, brown, red, orange, yellow, green
+Enter color 1 please(user input)
+
+//Assign user input to color1 variable
+color1 = user input
+
+//check for color and assign a value to color_value1 variable
+if black color_value_1 is 0
+	if brown color_value_1 is 10
+		if red color_value_1 is 20
+			if orange color_value_1 is 30
+				if yellow color_value_1 is 40
+					if green color_value_1 is 50
+
+//Ask user to enter color for band 2(same options)
+Enter color 2 please(user input)
+
+//Assign user input to color2 variable
+color2 = user input
+
+//check for color and assign a value to color_value_2 variable
+if black color_value_2 is 0
+	if brown color_value_2 is 1
+		if red color_value_2 is 2
+			if orange color_value_2 is 3
+				if yellow color_value_2 is 4
+					if green color_value_2 is 5
+
+//Ask user to enter color for band 2(same options)
+Enter color 3 please(user input)
+
+//Assign user input to color3
+color3 = user input
+
+//check for color and assign a value to color_value_3 variable
+if black color_value_2 is 1
+	if brown color_value_2 is 10
+		if red color_value_2 is 100
+			if orange color_value_2 is 1000
+				if yellow color_value_2 is 10000
+					if green color_value_2 is 100000
+
+//calculate the value of the resistor
+//example red,red,red = 30+3(100)= 3300 ohms
+
+new_value = (color_value_1 + color_value_2) * color_value_3
+
+//calculate the resistor value
+print(new_value +" ohms");
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
