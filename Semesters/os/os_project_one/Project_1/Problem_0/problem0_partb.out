@@ -1,0 +1,19 @@
+hi, i'm process 54203 and my parent is 39306
+hi, i'm process 54204 and my parent is 54203
+hi, i'm process 54205 and my parent is 54204
+hi, i'm process 54206 and my parent is 54205
+hi, i'm process 54207 and my parent is 54206
+hi, i'm process 54208 and my parent is 54207
+hi, i'm process 54209 and my parent is 54208
+hi, i'm process 54210 and my parent is 54209
+hi, i'm process 54211 and my parent is 54210
+hi, i'm process 54212 and my parent is 54211
+hi, i'm process 54213 and my parent is 54212
+hi, i'm process 54214 and my parent is 54213
+hi, i'm process 54215 and my parent is 54214
+hi, i'm process 54216 and my parent is 54215
+hi, i'm process 54217 and my parent is 54216
+hi, i'm process 54218 and my parent is 54217
+Minimum = -550
+Maximum = 990
+Minimum = 11570000
